@@ -1,20 +1,23 @@
 
-![image](https://github.com/wh1teend/wezterm/assets/44041140/40c31ce1-0563-4486-8197-633cab1d566b)
+<img height="128" alt="WezTerm Icon" src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="bottom"> 
 
+# Personal config for Wezterm.
+**A GPU-accelerated cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org/)** 
 
-# Personal config to Wezterm
+**User facing docs and guide at: https://wezfurlong.org/wezterm/**
 
+# Overview
 <img src="https://github.com/wh1teend/wezterm/assets/44041140/1ed6bdad-441e-4b7d-b74b-4733e2f36847"/>
 
 # Dependencies
-If you want everything to look like mine, you need to install...
+**If you want everything to look like mine, you need to install...**
 
  - **Windows**
 	- [Oh My Posh](https://ohmyposh.dev/)
   	- PowerShell 7
-		 - PSReadLine
-		 - Terminal-Icons
-		 - Z
+		 - [PSReadLine](https://github.com/PowerShell/PSReadLine)
+		 - [Terminal-Icons](https://github.com/devblackops/Terminal-Icons)
+		 - [Z](https://github.com/JannesMeyer/z.ps)
  - **macOS**
 	  -  [Oh My Zsh](https://ohmyz.sh/)
 
