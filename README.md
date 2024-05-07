@@ -6,11 +6,11 @@
 If you want everything to look like mine, you need to install...
 
  - **Windows**
-	 - PowerShell 7
+	 - [Oh My Posh](https://ohmyposh.dev/)
+  	- PowerShell 7
 		 - PSReadLine
 		 - Terminal-Icons
 		 - Z
-	- [Oh My Posh](https://ohmyposh.dev/)
  - **macOS**
 	  -  [Oh My Zsh](https://ohmyz.sh/)
 
