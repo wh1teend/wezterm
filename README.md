@@ -12,13 +12,13 @@
 # Dependencies
 **If you want everything to look like mine, you need to install...**
 
- - **For Windows**
+ - **Windows 10/11**
 	- [Oh My Posh](https://ohmyposh.dev/)
   	- PowerShell 7
 		 - [PSReadLine](https://github.com/PowerShell/PSReadLine)
 		 - [Terminal-Icons](https://github.com/devblackops/Terminal-Icons)
 		 - [Z](https://github.com/JannesMeyer/z.ps)
- - **For macOS**
+ - **macOS**
 	  -  [Oh My Zsh](https://ohmyz.sh/)
 
 ## Donate
