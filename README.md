@@ -1,15 +1,19 @@
 <img src="https://github.com/wh1teend/wezterm/assets/44041140/1ed6bdad-441e-4b7d-b74b-4733e2f36847"/>
 
+
 # Dependencies
 
 If you want everything to look like mine, you need to install...
 
- - PowerShell 7
-	 - PSReadLine
-	 - Terminal-Icons
-	 - Z
- - Oh My Posh
- - JetBrains Mono Nerd Font
+ - **Windows**
+	 - PowerShell 7
+		 - PSReadLine
+		 - Terminal-Icons
+		 - Z
+	- [Oh My Posh](https://ohmyposh.dev/)
+ - **macOS**
+	  -  [Oh My Zsh](https://ohmyz.sh/)
+
 
 ## Donate
 * BTC: bc1qv7v3q3ljx3ulta3sqnqyqmyz3eqva5k4xzdgqa
