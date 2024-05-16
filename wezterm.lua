@@ -4,7 +4,7 @@ local os = wezterm.target_triple
 if os == 'x86_64-pc-windows-msvc' then -- Windows
     shell = { 'C:/Program Files/PowerShell/7/pwsh.exe' }
 elseif os == 'aarch64-apple-darwin' then -- macOS (Apple Silicon)
-    shell = { '/usr/bin/zsh' }           
+    shell = { '/bin/zsh' }           
 else
     shell = {}
 end
