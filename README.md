@@ -19,6 +19,7 @@
 		 - [Terminal-Icons](https://github.com/devblackops/Terminal-Icons)
 		 - [Z](https://github.com/JannesMeyer/z.ps)
  - **macOS**
+	  -  [Oh My Posh](https://ohmyposh.dev/)
 	  -  [Oh My Zsh](https://ohmyz.sh/)
 
 ## Donate
